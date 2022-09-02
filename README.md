@@ -10,7 +10,7 @@ https://drive.google.com/drive/u/0/folders/1IPH_QMG21imbDQe9ieZ-qRumM_7aVThe
 
 Download the Dataset from:
 
-git clone https://github.com/spMohanty/PlantVillage-Dataset
+https://github.com/spMohanty/PlantVillage-Dataset
 
 # Our project
 
