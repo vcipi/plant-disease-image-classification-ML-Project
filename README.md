@@ -1,5 +1,11 @@
 # plant-disease-image-classification-ML-Project
 
+# Best Models 
+
+Download the best models based on accuracy from:
+
+https://drive.google.com/drive/u/0/folders/1IPH_QMG21imbDQe9ieZ-qRumM_7aVThe
+
 # Dataset
 
 Download the Dataset from:
