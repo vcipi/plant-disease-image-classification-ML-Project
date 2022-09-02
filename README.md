@@ -2,27 +2,43 @@
 # ML Project created in terms of BA MSc Degree purposes using python.
 
 # Our project
+
 The challenge
+
 Undeniably, the importance of the agriculture sector both for the global and local economies is enormous. That is the reason why, any challenges that appear and may influence the agriculture production need to be handled efficiently and timely.
 One of the biggest pain points that have been identified concerning the agriculture sector is the plant diseases that are evolving as the climate crisis is flourishing in our days. Not to mention that diseases are transferred globally more easily than ever before.
 Given that disease identification is mainly performed with visual methods, even today, from trained professionals and taking into consideration the spread of the diseases throughout the globe, it is impossible to handle all the separate circumstances arising at every corner of the earth.
+
+
 The solution – Our project
+
 Our project has the goal to overcome this obstacle by providing an easy tool with high accuracy that can be used throughout the world by anyone (from amateur gardeners to trained professional and farmers) and identify healthy from unhealthy plants and classify them based on their disease. By quickly and appropriately identifying the plant diseases throughout the world, substantial management issues and economic losses in the agricultural industry will be alleviated. Given that at least 10% of global food production is lost due to plant disease, the early identification and correct identification is of utmost importance.
+
+
 Taking it a bit further
+
 But identifying and classifying the disease of a plant is only the one side of the coin, or part of the solution. Our project aims at providing an end-to-end solution. Therefore, our tool aims at also providing which is the remedy for every separate disease identified. As a result, having only an image of a diseased plant, with the help of our project, the disease will be accurately identified, and the respective remedy will be proposed.
+
+
 In a nutshell
+
 This project is concerned with a new approach to the development of plant disease recognition model, based on leaf image classification using deep convolutional networks. The aim is to develop an easy but accurate system implementation in practice. All essential steps required for implementing this disease recognition model are fully described throughout the paper, starting from the dataset itself, up to the machine learning framework developed.
+
+
 Our application
+
 Our team has developed a User Interface (UI) to make the experience more interactive fast and efficient. With the designed UI, the user has just to upload the picture with the leaf whose disease needs to be identified and the rest will be made automatically. Specifically, the steps are listed below:
+
 1. Upload the respective picture
 2. The UI will output both the disease and the remedy proposal
 3. In the upper left part of the screen, the user must upload the image with the diseased leaf. After the file has been browsed, at the right part of the screen the application outputs the following in the order that are listed:
-1. Your plant disease is: …
-2. Recommended Remedy: …
+
+    1. Your plant disease is: …
+    2. Recommended Remedy: …
 Finally, at the bottom left part of the screen the user can also populate the field with their location to have an overview about:
-• Temperature
-• Pressure
-• Humidity etc.
+    • Temperature
+    • Pressure
+    • Humidity etc.
 This information may be of use, since a lot of diseases are linked with the weather conditions.
 
 # Our Vision/Goals
