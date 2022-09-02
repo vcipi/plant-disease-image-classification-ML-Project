@@ -1,4 +1,4 @@
-# plant-disease-classification-ML-Project
+# plant-disease-image-classification-ML-Project
 
 # Dataset
 
