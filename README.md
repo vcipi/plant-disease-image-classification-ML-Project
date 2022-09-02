@@ -1,5 +1,11 @@
 # plant-disease-classification-ML-Project
 
+# Dataset
+
+Download the Dataset from:
+
+git clone https://github.com/spMohanty/PlantVillage-Dataset
+
 # Our project
 
 The challenge
